@@ -1,6 +1,6 @@
 # Methodify Hash
 
-This is a small module which enables hashes to use methods instead of the standard bracket operator ``[]``.
+This is a small module which enables hashes to use methods instead of the standard bracket operator ``[]`` comparable to Hashie.
 
 ### Usage
 
