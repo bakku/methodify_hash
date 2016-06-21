@@ -26,7 +26,7 @@ All hashes beginning from this point:
     hash = { this: 'hello' }
     puts hash.this
 
-Also hashes with strings being the keys works:
+Also hashes with strings as keys works:
 
     string_hash = { 'hello' => 'bye' }
     puts string_hash.hello
