@@ -20,7 +20,7 @@ Using helper method for only one hash (works for nested):
 All hashes beginning from this point:
 
     class Hash
-      include MethodifyHash
+      include MethodifyHash::Module
     end
 
     hash = { this: 'hello' }
